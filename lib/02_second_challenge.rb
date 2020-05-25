@@ -25,7 +25,6 @@ def second_challenge
         :attitude => "hot-headed"
       }
     ]
-    
       }, 
     :capulet => {
     
